@@ -1,0 +1,628 @@
+*{
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+.main-image {
+    background-image: url(wwwroot/images/Air-University.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1490px;
+    height: 98vh;
+   
+   
+}
+
+.nav-up {
+    background-color: rgba(239, 10, 10, 0.116);
+    margin-top: -.5rem;
+    margin-left: -1rem;
+    opacity: 100%;
+    width: 76rem;
+    height: 3rem;
+    color: white;
+}
+
+.head-1 {
+    color: rgb(20, 20, 20);
+    margin-top: -4rem;
+    margin-left: 1rem;
+    color: white;
+}
+
+.head-2 {
+    color: rgb(20, 20, 20);
+    margin-top: -3.1rem;
+    margin-left: 43.5rem;
+    font-size: .7rem;
+    color: white;
+}
+
+.head-3 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 55.8rem;
+    font-size: .7rem;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.head-4 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 63rem;
+    font-size: .7rem;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.head-5 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 73rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+.nav-search-container {
+    float: left;
+    margin-left: 81rem;
+    margin-top: -2.4rem;
+    cursor: pointer;
+}
+
+.navbar {
+    background-color: rgba(228, 228, 228, 0.116);
+    width: 76rem;
+    height: 3rem;
+    margin-left: -1rem;
+}
+
+.nav-1 {
+    color: rgb(20, 20, 20);
+    margin-top: -3rem;
+    margin-left: 3rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+.nav-2 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 8.5rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+
+.nav-3 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 14rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+
+.nav-4 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 24.5rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+.nav-5 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.54rem;
+    margin-left: 33rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+.nav-6 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 50.5rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+.nav-7 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 58.5rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+.nav-8 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 67rem;
+    font-size: .7rem;
+    color: white;
+    cursor: pointer;
+}
+
+.airuniversity{
+    font-size: 2rem;
+    margin-top: 17rem;
+    text-align: center;
+    color: white;
+}
+.explorebar{
+    margin-top: -1rem;
+    width: 93.1rem;
+    height: 2rem;
+    background-color: rgb(220, 11, 11);
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+.explorebar:hover{
+    background-color: #6e0606;
+    transition: 0.5s;
+}
+.h1pg1{
+    text-align: center;
+    font-size: 2rem;
+}
+.h2pg1{
+    text-align: center;
+    background-color: rgb(220, 11, 11);
+    width: 25rem;
+    height: 3rem;
+    margin-left: 34rem;
+    color: white;
+    cursor: pointer;
+}
+.h2pg1:hover{
+    background-color: #6e0606;
+    transition: 0.5s;
+}
+.h2pg1text{
+    margin-top: -3.5rem;
+    text-align: center;
+    color: rgb(247, 248, 247);
+    font-size: 2rem;
+    
+}
+.offwhitecolor{
+    background-color: rgb(242, 237, 237);
+    width: 93.1rem;
+    height: 62rem;
+    text-align: center;
+    font-size: 2rem;
+
+}
+.card {
+    width: 41.5%;;
+    height: -22.5rem;
+    margin-top: 2.6rem;
+    margin-left: 6rem;
+  }
+  
+  .card:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0,0,0,0.2);
+  }
+  
+.card-2 {
+    width: 41.5%;
+    margin-top: -47.5rem;
+    margin-left: 48rem;
+  }
+  .card-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0,0,0,0.2);
+  }
+
+  .card-3 {
+    width: 41.5%;
+    margin-top: 1rem;
+    margin-left: 6rem;
+  }
+  .card-3:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0,0,0,0.2);
+  }
+
+  .card-4 {
+    width: 41.5%;;
+    height: -22.5rem;
+    margin-top: -22rem;
+    margin-left: 48rem;
+  }
+  .card-4:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0,0,0,0.2);
+  }
+  
+  .h1pg4{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5rem;
+    color: black;
+  }
+
+
+.card-1-0 {
+    width: 25%;
+    height: 30rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    cursor: pointer;
+}
+
+.card-1-0:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-2-0 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -29.8rem;
+    margin-left: 29rem;
+    cursor: pointer;
+}
+
+.card-2-0:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-3-0 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -28.8rem;
+    margin-left: 29rem;
+    cursor: pointer;
+}
+
+.card-3-0:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.h2pg4 {
+    background-color: rgb(220, 11, 11);
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: 34rem;
+    width: 25rem;
+    height: 3rem;
+    cursor: pointer;
+    color: white;
+}
+.h2pg4:hover{
+    background-color: #6e0606;
+    transition: 0.5s;
+}
+.h2pg4text{
+    margin-top: 4.5rem;
+    color: rgb(248, 246, 246);
+    text-align: center;
+    font-size: 2rem;
+}
+.offwhitecolor2{
+    background-color: rgb(242, 237, 237);
+    width: 93.1rem;
+    height: 58rem;
+    text-align: center;
+    font-size: 2rem;
+}
+.card-1-2 {
+    width: 23%;
+    height: 31rem;
+    margin-top: 5rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+.card-1-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+.card-2-2 {
+    width: 100%;
+    height: 31rem;
+    margin-top: -31.4rem;
+    margin-left: 23rem;
+    cursor: pointer;
+}
+.card-2-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+.card-3-2 {
+    width: 100%;
+    height: 31rem;
+    margin-top: -31.4rem;
+    margin-left: 23rem;
+    cursor: pointer;
+}
+.card-3-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.card-4-2 {
+    width: 100%;
+    height: 31rem;
+    margin-top: -31rem;
+    margin-left: 46rem;
+    cursor: pointer;
+}
+
+.card-4-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+
+.h1pg5{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: -57rem;
+    color: black;
+
+  }
+  .h2pg5 {
+    background-color: rgb(220, 11, 11);
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: 34rem;
+    width: 25rem;
+    height: 3rem;
+    cursor: pointer;
+    color: white;
+}
+.h2pg5:hover{
+    background-color: #6e0606;
+    transition: 0.5s;
+}
+.h2pg5text{
+    margin-top: 4.5rem;
+    color: rgb(248, 246, 246);
+    text-align: center;
+    font-size: 2rem;
+}
+.h1pg6{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 7rem;
+    color: black;
+}
+.institutes{
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+.n4{
+    margin-top: 1rem;
+    margin-left: 7rem;
+
+}
+.degreeprograms{
+    margin-top: -5.8rem;
+    margin-left: 17rem;
+
+}
+.n69{
+    margin-top: 0.8rem;
+    margin-left: 22rem;
+}
+.EnrolledStudents{
+    margin-top: -5.8rem;
+    margin-left: 32rem;
+}
+.n8195{
+    margin-top: 0.8rem;
+    margin-left: 36rem;
+}
+.FacultyMembers{
+    margin-top: -5.8rem;
+    margin-left: 47rem;
+}
+.n477{
+    margin-top: 0.8rem;
+    margin-left: 51rem;
+}
+.AlumniStudents{
+    margin-top: -5.8rem;
+    margin-left: 61.5rem;
+}
+.n10837{
+    margin-top: 0.8rem;
+    margin-left: 65rem;
+}
+.SocitiesClubs{
+    margin-top: -5.8rem;
+    margin-left: 75.5rem;
+}
+.n19{
+    margin-top: 0.8rem;
+    margin-left: 80rem;
+}
+.dotes{
+    margin-left: 3rem;
+}
+.offwhitecolor3{
+    background-color: whitesmoke;
+    width: 93.1rem;
+    height: 88rem;
+}
+.h1pg7{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 4rem;
+    color: black;
+}
+.Admissionimg{
+    height: -40rem;
+}
+.Admissiontext1{
+    margin-top: 2rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.Admissiontext2{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 22px;
+}
+.Admissiontext1-2{
+    margin-top: -9.2rem;
+    margin-left: 50rem;
+    text-align: left;
+}
+.Admissiontext2-2{
+    margin-top: 1rem;
+    margin-left: 50rem;
+    text-align: left;
+    font-size: 22px;
+}
+
+.h1pg8 {
+  background-color: rgb(220, 11, 11);
+  margin-top: 3rem;
+  text-align: center;
+  margin-left: 34rem;
+  width: 25rem;
+  height: 3rem;
+  cursor: pointer;
+  color: white;
+}
+.h1pg8:hover{
+  background-color: #6e0606;
+  transition: 0.5s;
+}
+.h1pg8text{
+  margin-top: 4.5rem;
+  color: rgb(248, 246, 246);
+  text-align: center;
+  font-size: 2rem;
+}
+.h1pg9{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 4rem;
+    color: black;
+}
+.vision{
+    margin-top: -5rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.vissiontext{
+    margin-top: -2rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.mission{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.missiontext{
+    margin-top: -2rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.vissionmissionimg{
+    width: 100px;
+    height: 100px;
+    margin-left: 64rem;
+    margin-top: -2rem;
+}
+.footer{
+    background-image: url(wwwroot/images/footerau.jpg);
+    width: 1490px;
+    height: 550px;
+}
+.aulogo{
+    margin-top: -1rem;
+    margin-left: 4rem;
+    text-align: center;
+    color: white;
+}
+.uan{
+    color: white;
+    margin-top: 2rem;
+    margin-left: -42rem;
+    font-size: 18px;
+}
+.mail{
+    color: white;
+    margin-top: -1.4rem;
+    margin-left: -5rem;
+    font-size: 18px;
+}
+.address{
+    color: white;
+    margin-top: -1.4rem;
+    margin-left: 40rem;
+    font-size: 18px;
+}
+.dotes-1{
+    color: white;
+}
+.quicklink{
+    color: white;
+    margin-left: -65rem;
+}
+.quicklink-1{
+    color: white;
+    margin-top: -2rem;
+    margin-left: 74rem;
+    text-align: left;
+    font-size: 18px;
+}
+.constitution{
+    color: white;
+    margin-left: -17rem;
+margin-top: -18.7rem;
+}
+.constitution-1{
+    color: white;
+    margin-top: -2rem;
+    margin-left: 30.5rem;
+    text-align: left;
+    font-size: 18px;
+}
+.Affiliated{
+    color: white;
+    margin-left: 36.5rem;
+margin-top: -10.8rem;
+}
+.Affiliated-1{
+    color: white;
+    margin-top: -2rem;
+    margin-left: 56.5rem;
+    text-align: left;
+    font-size: 18px;
+}
+.copyright{
+    margin-top: -4rem;
+    width: 1490px;
+    height: 4rem;
+    background-color: rgb(2, 2, 43);
+    
+}
+.copyrighttext{
+    color: rgb(250, 249, 249);
+    text-align: center;
+    margin-top: -5.8rem;
+}
